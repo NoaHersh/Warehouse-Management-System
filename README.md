@@ -1,4 +1,4 @@
-# Warehouse Management System in C++
+# Warehouse Management System 
 
 ## Overview
 This project is a command-line simulation of a warehouse management system, developed in C++. It processes orders, manages various types of volunteers (collectors and drivers with specific limitations), and serves different customer profiles (soldiers and civilians). The simulation is advanced step-by-step through a custom action loop, maintaining the exact state of all entities.
